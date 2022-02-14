@@ -14,7 +14,7 @@ int main() {
     int n;
     printf("Enter a positive integer number: ");
     scanf("%d",&n);
-    printf("Fibbonacci of %d: " , n);
+    printf("Fibbonacci of %d is : " , n);
     for(int i = 0;i<n;i++) {
       printf("%d ",fibbonacci(i));
     }
