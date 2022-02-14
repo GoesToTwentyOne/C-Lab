@@ -2,7 +2,8 @@
 int main()
 {
   int temp;
-  int arr[5]={6,8,32,25,8};
+  int arr[5]={45,67,3
+    4,78,90};
   printf("Before sorting the array \n" );
   for(int i=0;i<5;i++){
     printf("%d  ", arr[i]);
