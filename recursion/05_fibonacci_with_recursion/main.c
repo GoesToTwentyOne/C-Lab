@@ -9,7 +9,6 @@ int fibbonacci(int n) {
       return (fibbonacci(n-1) + fibbonacci(n-2));
    }
 }
-
 int main() {
     int n;
     printf("Enter a positive integer number: ");
